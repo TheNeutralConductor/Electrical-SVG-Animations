@@ -60,4 +60,39 @@
   <path id="path3" d="m22.723 34.563 17.418 11.764 3.086.374 27.62 18.71-2.265 3.314-27.596-18.666-1.569-2.66L22 35.635Z" style="fill:#ff0000;stroke-width:8.8829;stroke-linecap:square"/>
   <path id="text8-1" d="m10.942 16.028 2.72-7.378h.883l2.72 7.378h-1.117l-2.045-5.952-2.045 5.952zm1.253-1.619v-.984h3.882v.984z" style="font-size:10.3916px;stroke-width:18.13799968;stroke-linecap:square;stroke-dasharray:none" transform="scale(1.02851 .97228)"/>
   <circle id="path2" cx="133.891" cy="176.734" r="5.395" style="fill:#1a1a1a;stroke:none;stroke-width:5.29167;stroke-linecap:square;stroke-dasharray:none" transform="translate(-65.352 -108.744)"/>
+<style>
+        #needle {
+  animation: amps 10s infinite alternate;
+  transform-origin: right;
+  transform-box: fill-box;
+}
+@keyframes amps {
+  0%,20% {
+    transform: rotate(0deg);
+  }
+
+  30% {
+    transform: rotate(25deg);
+  }
+
+  40% {
+    transform: rotate(30deg);
+  }
+  45% {
+    transform: rotate(35deg);
+  }
+
+  55% {
+    transform: rotate(50deg);
+  }
+
+  60% {
+    transform: rotate(40deg);
+  }
+
+  100% {
+    transform: rotate(25deg);
+  }
+}
+    </style>
 </svg>
