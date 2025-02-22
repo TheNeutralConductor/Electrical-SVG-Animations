@@ -6,3 +6,4 @@ SVG animations of electrical components, electrical diagrams, electrical princip
 
 ## METERS
 ![Thermic-Ammeter-Animation](METER-thermic-small.svg)
+![Thermic-Ammeter-V2-Animation](METER-thermic-v2-small.svg)
