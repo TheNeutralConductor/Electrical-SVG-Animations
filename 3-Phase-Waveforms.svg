@@ -1,0 +1,18 @@
+<svg width="151.5" height="39.795">
+<defs>
+      <path id="phase" fill="none" d="M-75.092 19.9s9.99-18.898 18.898-18.898S-37.296 19.9-37.296 19.9s9.99 18.898 18.898 18.898S.5 19.9.5 19.9 10.49 1.002 19.398 1.002 38.296 19.9 38.296 19.9s9.99 18.898 18.898 18.898S76.092 19.9 76.092 19.9 86.082 1.002 94.99 1.002 113.888 19.9 113.888 19.9s9.99 18.898 18.898 18.898S151.684 19.9 151.684 19.9s9.99-18.898 18.898-18.898S189.48 19.9 189.48 19.9s9.99 18.898 18.898 18.898S227.276 19.9 227.276 19.9"/>
+</defs>
+    <path fill="#dbdbdb" stroke="#ffffff" d="M.5.5H151v38.795H.5z"/>
+    <use href="#phase" stroke="#ff5555" > 
+      <animate attributeName="x" from="0" to="-75" dur="3s" repeatCount="indefinite" />
+    </use>
+    <use transform="translate(25 0)" href="#phase" stroke="#2a7fff" > 
+      <animate attributeName="x" from="0" to="-75" dur="3s" repeatCount="indefinite" />
+    </use>
+    <use transform="translate(50 0)" href="#phase" stroke="#f9f9f9" > 
+      <animate attributeName="x" from="0" to="-75" dur="3s" repeatCount="indefinite" />
+    </use>
+    <text x="10" y="22" font-family="monospace" font-size="8" fill="black">
+      3 Phase
+    </text>
+</svg>
