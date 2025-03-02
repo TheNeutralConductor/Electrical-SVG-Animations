@@ -11,3 +11,6 @@ SVG animations of electrical components, electrical diagrams, electrical princip
 
 ## PRINCIPLES
 ![3-Phase-Waveform-Animation](/SVG/3-Phase-Waveforms.svg)
+
+## MISCELLANEOUS
+<img src="/SVG/bcTimeClock.svg">
