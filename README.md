@@ -16,5 +16,9 @@ SVG animations of electrical components, electrical diagrams, electrical princip
 <img src="/SVG/bcTimeClock.svg">
 
 ## BEACONS
-<img src="/SVG/Green-Rotating-Light.svg">
+![Green rotating light](/SVG/Green-Rotating-Light.svg)
+![Yellow rotating light](/SVG/Yellow-Rotating-Light.svg)
+![Red rotating light](/SVG/Red-Rotating-Light.svg)
+![Blue rotating light](/SVG/Blue-Rotating-Light.svg)
+
 
