@@ -15,7 +15,7 @@
    </ellipse>
        <ellipse cx="37.968" cy="82.814" rx="6.6145" ry="9.2605" fill="yellow" filter="url(#filter3)" stroke-width=".47842">
    <animate attributeName="cx" dur="0.5s" from="0" repeatCount="indefinite" to="50"/>
-   <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"
+   <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
   </ellipse>
   </g>
   <rect x=".13229" y="14.943" width="13.229" height="1.2717" rx=".80001" ry="0" fill="#666" stroke="#000" stroke-width=".26459"/>
