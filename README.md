@@ -14,3 +14,7 @@ SVG animations of electrical components, electrical diagrams, electrical princip
 
 ## MISCELLANEOUS
 <img src="/SVG/bcTimeClock.svg">
+
+## BEACONS
+<img src="/SVG/Green-Rotating-Light.svg">
+
