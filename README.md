@@ -23,6 +23,12 @@ SVG animations of electrical components, electrical diagrams, electrical princip
 ![Red rotating light](/SVG/Red-Rotating-Light.svg)
 ![Blue rotating light](/SVG/Blue-Rotating-Light.svg)
 
+### Pulsating Lights
+![Green pulsating light](/SVG/Green-Pulsating-Light.svg)
+![Yellow pulsating light](/SVG/Yellow-Pulsating-Light.svg)
+![Red pulsating light](/SVG/Red-Pulsating-Light.svg)
+![Blue pulsating light](/SVG/Blue-Pulsating-Light.svg)
+
 ### Static Lights
 ![Green static light](/SVG/Green-Static-Light.svg)
 ![Yellow static light](/SVG/Yellow-Static-Light.svg)
